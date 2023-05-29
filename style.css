@@ -1,0 +1,12 @@
+.hour,.minute,.second{
+height: 35px;
+width: 30px;
+margin: auto;
+position: relative;
+left: 100px;
+background-color: brown;
+border: 1px;
+border-radius: 10px;
+color: aliceblue;
+font: 200;
+}
